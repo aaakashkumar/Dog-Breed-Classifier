@@ -49,5 +49,6 @@ To manually run through the code, you may either follow the instructions given b
   jupyter notebook dog_app.ipynb
   ```
 
+---
 
-
+> This project was submitted as the Capstone Project for the Machine Learning Engineering Nanodegree Program at Udacity
