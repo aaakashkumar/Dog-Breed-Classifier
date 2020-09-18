@@ -14,18 +14,15 @@ This project aims to build a pipeline that can be used within a web or mobile ap
 
 Along with exploring state-of-the-art CNN models for classification and localization, this project aims to highlight the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline. Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer. 
 
+To get a better understanding of the project, you may read the [Project Report](https://github.com/aaakashkumar/Dog-Breed-Classifier/blob/master/report.pdf).
 
-
-# Dependencies
+## Dependencies
 
 This project mainly makes use of Python, Jupyter Notebooks, OpenCV and PyTorch. Other packages used in this project have been listed in the `requirements.txt` file and may be installed following the instructions in the Project Instructions section.
 
-
-
-
 ## Project Instructions
 
-To manually run through the code, you may follow the instructions given below.
+To manually run through the code, you may either follow the instructions given below to run the code locally, or you may simple follow this URL to open the notebook on Google Colab: https://bit.ly/3hFjpC3
 
 ### Instructions
 
@@ -35,8 +32,6 @@ To manually run through the code, you may follow the instructions given below.
 		git clone https://github.com/aaakashkumar/Dog-Breed-Classifier.git
 		cd deep-learning-v2-pytorch/project-dog-classification
 	```
-   
-   __NOTE:__ This repository is private as of now, and cannot be accessed through git. All the files have been included in the zip.
    
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`.  The `dogImages/` folder should contain 133 folders, each corresponding to a different dog breed.
 
